@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pvpet
+- 👋 Hi, I’m Jacob H
 - 👀 I’m interested in everything at this point! I mainly program with C++, but I've learned basic python and ARM assembly as well.
 - 🌱 I’m currently learning more about Algorithms and Data Structures, along with Abstract Algebra.
 - 💞️ I’m not looking to collaborate at this time, college is taking up most of my time, however if you'd like to collab during the summer please email: 
